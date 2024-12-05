@@ -5,7 +5,8 @@ VirtuPoint is a virtual mouse application created using a Custom CNN Model and H
 ### Run apps from Visual Studio Code:
 1. Clone this repository
    ```
-      git clone https://github.com/stevsuki/VirtuPoint.git```
+      git clone https://github.com/stevsuki/VirtuPoint.git
+   ```
 2. Install library dependencies:
    ```pip install requirement.txt```
 3. Run VirtuPoint.py
