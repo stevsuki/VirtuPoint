@@ -17,6 +17,10 @@ https://drive.google.com/drive/folders/1fALJLQEbMm1Bdw2yV2-0G54K46VxTw8n?usp=sha
    ```
       pip install -r requirement.txt
    ```
+3. Run VirtuPoint.py
+   ```
+      python VirtuPoint.py
+   ```
    if an error appears as below
    
    ![image](https://github.com/user-attachments/assets/c5bcbf61-01de-41d7-840d-ce6793591bb6)
@@ -25,9 +29,5 @@ https://drive.google.com/drive/folders/1fALJLQEbMm1Bdw2yV2-0G54K46VxTw8n?usp=sha
    if packaged not installed install msvc-runtime:
    ```
    pip install msvc-runtime==14.42.34433
-   ```
-5. Run VirtuPoint.py
-   ```
-      python VirtuPoint.py
    ```
 
