@@ -26,6 +26,7 @@ https://drive.google.com/drive/folders/1fALJLQEbMm1Bdw2yV2-0G54K46VxTw8n?usp=sha
    ![image](https://github.com/user-attachments/assets/c5bcbf61-01de-41d7-840d-ce6793591bb6)
 
    Please maksure Microsoft Visual C++ Redistributable Package has been installed
+
    if packaged not installed install msvc-runtime:
    ```
    pip install msvc-runtime==14.42.34433
