@@ -15,7 +15,7 @@ https://drive.google.com/drive/folders/1fALJLQEbMm1Bdw2yV2-0G54K46VxTw8n?usp=sha
    ```
 2. Install library dependencies:
    ```
-      pip install -r requirement.txt
+      pip install -r requirements.txt
    ```
 3. Run VirtuPoint.py
    ```
