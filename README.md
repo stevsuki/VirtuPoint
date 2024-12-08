@@ -2,7 +2,6 @@ VirtuPoint is a virtual mouse application created using a Custom CNN Model and H
 
 ## Manual Book
 [VirtuPoint Manual Book.pdf](https://github.com/stevsuki/VirtuPoint/raw/virtupoint/Manual%20Book%20VirtuPoint.pdf)
-https://github.com/username/repository-name/raw/branch-name/path/to/file.pdf
 
 ## Installation
 There are 2 ways to run this application, namely by downloading the .exe file on the gdrive link or running application independently by cloning the repository
