@@ -1,6 +1,8 @@
 VirtuPoint is a virtual mouse application created using a Custom CNN Model and Hand Landmark Detection Technique
 
 ## Manual Book
+The followings are the instructions on how to use VirtuPoint application
+
 [VirtuPoint Manual Book.pdf](https://github.com/stevsuki/VirtuPoint/raw/virtupoint/Manual%20Book%20VirtuPoint.pdf)
 
 ## Installation
